@@ -1,0 +1,292 @@
+[
+  {
+    "title_number": 1,
+    "title_name": "GENERAL PROVISIONS",
+    "url": "https://www.law.cornell.edu/uscode/text/1"
+  },
+  {
+    "title_number": 2,
+    "title_name": "THE CONGRESS",
+    "url": "https://www.law.cornell.edu/uscode/text/2"
+  },
+  {
+    "title_number": 3,
+    "title_name": "THE PRESIDENT",
+    "url": "https://www.law.cornell.edu/uscode/text/3"
+  },
+  {
+    "title_number": 4,
+    "title_name": "FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES",
+    "url": "https://www.law.cornell.edu/uscode/text/4"
+  },
+  {
+    "title_number": 5,
+    "title_name": "GOVERNMENT ORGANIZATION AND EMPLOYEES",
+    "url": "https://www.law.cornell.edu/uscode/text/5"
+  },
+  {
+    "title_number": 6,
+    "title_name": "DOMESTIC SECURITY",
+    "url": "https://www.law.cornell.edu/uscode/text/6"
+  },
+  {
+    "title_number": 7,
+    "title_name": "AGRICULTURE",
+    "url": "https://www.law.cornell.edu/uscode/text/7"
+  },
+  {
+    "title_number": 8,
+    "title_name": "ALIENS AND NATIONALITY",
+    "url": "https://www.law.cornell.edu/uscode/text/8"
+  },
+  {
+    "title_number": 9,
+    "title_name": "ARBITRATION",
+    "url": "https://www.law.cornell.edu/uscode/text/9"
+  },
+  {
+    "title_number": 10,
+    "title_name": "ARMED FORCES",
+    "url": "https://www.law.cornell.edu/uscode/text/10"
+  },
+  {
+    "title_number": 11,
+    "title_name": "BANKRUPTCY",
+    "url": "https://www.law.cornell.edu/uscode/text/11"
+  },
+  {
+    "title_number": 12,
+    "title_name": "BANKS AND BANKING",
+    "url": "https://www.law.cornell.edu/uscode/text/12"
+  },
+  {
+    "title_number": 13,
+    "title_name": "CENSUS",
+    "url": "https://www.law.cornell.edu/uscode/text/13"
+  },
+  {
+    "title_number": 14,
+    "title_name": "COAST GUARD",
+    "url": "https://www.law.cornell.edu/uscode/text/14"
+  },
+  {
+    "title_number": 15,
+    "title_name": "COMMERCE AND TRADE",
+    "url": "https://www.law.cornell.edu/uscode/text/15"
+  },
+  {
+    "title_number": 16,
+    "title_name": "CONSERVATION",
+    "url": "https://www.law.cornell.edu/uscode/text/16"
+  },
+  {
+    "title_number": 17,
+    "title_name": "COPYRIGHTS",
+    "url": "https://www.law.cornell.edu/uscode/text/17"
+  },
+  {
+    "title_number": 18,
+    "title_name": "CRIMES AND CRIMINAL PROCEDURE",
+    "url": "https://www.law.cornell.edu/uscode/text/18"
+  },
+  {
+    "title_number": 19,
+    "title_name": "CUSTOMS DUTIES",
+    "url": "https://www.law.cornell.edu/uscode/text/19"
+  },
+  {
+    "title_number": 20,
+    "title_name": "EDUCATION",
+    "url": "https://www.law.cornell.edu/uscode/text/20"
+  },
+  {
+    "title_number": 21,
+    "title_name": "FOOD AND DRUGS",
+    "url": "https://www.law.cornell.edu/uscode/text/21"
+  },
+  {
+    "title_number": 22,
+    "title_name": "FOREIGN RELATIONS AND INTERCOURSE",
+    "url": "https://www.law.cornell.edu/uscode/text/22"
+  },
+  {
+    "title_number": 23,
+    "title_name": "HIGHWAYS",
+    "url": "https://www.law.cornell.edu/uscode/text/23"
+  },
+  {
+    "title_number": 24,
+    "title_name": "HOSPITALS AND ASYLUMS",
+    "url": "https://www.law.cornell.edu/uscode/text/24"
+  },
+  {
+    "title_number": 25,
+    "title_name": "INDIANS",
+    "url": "https://www.law.cornell.edu/uscode/text/25"
+  },
+  {
+    "title_number": 26,
+    "title_name": "INTERNAL REVENUE CODE",
+    "url": "https://www.law.cornell.edu/uscode/text/26"
+  },
+  {
+    "title_number": 27,
+    "title_name": "INTOXICATING LIQUORS",
+    "url": "https://www.law.cornell.edu/uscode/text/27"
+  },
+  {
+    "title_number": 28,
+    "title_name": "JUDICIARY AND JUDICIAL PROCEDURE",
+    "url": "https://www.law.cornell.edu/uscode/text/28"
+  },
+  {
+    "title_number": 29,
+    "title_name": "LABOR",
+    "url": "https://www.law.cornell.edu/uscode/text/29"
+  },
+  {
+    "title_number": 30,
+    "title_name": "MINERAL LANDS AND MINING",
+    "url": "https://www.law.cornell.edu/uscode/text/30"
+  },
+  {
+    "title_number": 31,
+    "title_name": "MONEY AND FINANCE",
+    "url": "https://www.law.cornell.edu/uscode/text/31"
+  },
+  {
+    "title_number": 32,
+    "title_name": "NATIONAL GUARD",
+    "url": "https://www.law.cornell.edu/uscode/text/32"
+  },
+  {
+    "title_number": 33,
+    "title_name": "NAVIGATION AND NAVIGABLE WATERS",
+    "url": "https://www.law.cornell.edu/uscode/text/33"
+  },
+  {
+    "title_number": 34,
+    "title_name": "CRIME CONTROL AND LAW ENFORCEMENT",
+    "url": "https://www.law.cornell.edu/uscode/text/34"
+  },
+  {
+    "title_number": 35,
+    "title_name": "PATENTS",
+    "url": "https://www.law.cornell.edu/uscode/text/35"
+  },
+  {
+    "title_number": 36,
+    "title_name": "PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS",
+    "url": "https://www.law.cornell.edu/uscode/text/36"
+  },
+  {
+    "title_number": 37,
+    "title_name": "PAY AND ALLOWANCES OF THE UNIFORMED SERVICES",
+    "url": "https://www.law.cornell.edu/uscode/text/37"
+  },
+  {
+    "title_number": 38,
+    "title_name": "VETERANS’ BENEFITS",
+    "url": "https://www.law.cornell.edu/uscode/text/38"
+  },
+  {
+    "title_number": 39,
+    "title_name": "POSTAL SERVICE",
+    "url": "https://www.law.cornell.edu/uscode/text/39"
+  },
+  {
+    "title_number": 40,
+    "title_name": "PUBLIC BUILDINGS, PROPERTY, AND WORKS",
+    "url": "https://www.law.cornell.edu/uscode/text/40"
+  },
+  {
+    "title_number": 41,
+    "title_name": "PUBLIC CONTRACTS",
+    "url": "https://www.law.cornell.edu/uscode/text/41"
+  },
+  {
+    "title_number": 42,
+    "title_name": "THE PUBLIC HEALTH AND WELFARE",
+    "url": "https://www.law.cornell.edu/uscode/text/42"
+  },
+  {
+    "title_number": 43,
+    "title_name": "PUBLIC LANDS",
+    "url": "https://www.law.cornell.edu/uscode/text/43"
+  },
+  {
+    "title_number": 44,
+    "title_name": "PUBLIC PRINTING AND DOCUMENTS",
+    "url": "https://www.law.cornell.edu/uscode/text/44"
+  },
+  {
+    "title_number": 45,
+    "title_name": "RAILROADS",
+    "url": "https://www.law.cornell.edu/uscode/text/45"
+  },
+  {
+    "title_number": 46,
+    "title_name": "SHIPPING",
+    "url": "https://www.law.cornell.edu/uscode/text/46"
+  },
+  {
+    "title_number": 47,
+    "title_name": "TELECOMMUNICATIONS",
+    "url": "https://www.law.cornell.edu/uscode/text/47"
+  },
+  {
+    "title_number": 48,
+    "title_name": "TERRITORIES AND INSULAR POSSESSIONS",
+    "url": "https://www.law.cornell.edu/uscode/text/48"
+  },
+  {
+    "title_number": 49,
+    "title_name": "TRANSPORTATION",
+    "url": "https://www.law.cornell.edu/uscode/text/49"
+  },
+  {
+    "title_number": 50,
+    "title_name": "WAR AND NATIONAL DEFENSE",
+    "url": "https://www.law.cornell.edu/uscode/text/50"
+  },
+  {
+    "title_number": 51,
+    "title_name": "NATIONAL AND COMMERCIAL SPACE PROGRAMS",
+    "url": "https://www.law.cornell.edu/uscode/text/51"
+  },
+  {
+    "title_number": 52,
+    "title_name": "VOTING AND ELECTIONS",
+    "url": "https://www.law.cornell.edu/uscode/text/52"
+  },
+  {
+    "title_number": 54,
+    "title_name": "NATIONAL PARK SERVICE AND RELATED PROGRAMS",
+    "url": "https://www.law.cornell.edu/uscode/text/54"
+  },
+  {
+    "title_number": "5a",
+    "title_name": "FEDERAL ADVISORY COMMITTEE ACT",
+    "url": "https://www.law.cornell.edu/uscode/text/5a"
+  },
+  {
+    "title_number": "11a",
+    "title_name": "BANKRUPTCY RULES",
+    "url": "https://www.law.cornell.edu/uscode/text/11a"
+  },
+  {
+    "title_number": "18a",
+    "title_name": "UNLAWFUL POSSESSION OR RECEIPT OF FIREARMS",
+    "url": "https://www.law.cornell.edu/uscode/text/18a"
+  },
+  {
+    "title_number": "28a",
+    "title_name": "JUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS",
+    "url": "https://www.law.cornell.edu/uscode/text/28a"
+  },
+  {
+    "title_number": "50a",
+    "title_name": "WAR AND NATIONAL DEFENSE [ELIMINATED] Current through 114–86u1",
+    "url": "https://www.law.cornell.edu/uscode/text/50a"
+  }
+]
